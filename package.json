@@ -13,7 +13,7 @@
     "web-vitals": "^2.1.4"
   }
 }
-Now your pac
+
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
